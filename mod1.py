@@ -1,4 +1,5 @@
 # this is a test
+# estranho que ficou preso.
 import math
 import numpy as np
 import matplotlib.pyplot as plt
